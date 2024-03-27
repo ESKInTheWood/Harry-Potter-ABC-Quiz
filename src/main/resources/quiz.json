@@ -1,0 +1,157 @@
+[
+  {
+    "pytanie": "Jak nazywa się kierowca autobusu Błędny Rycerz?",
+    "a":"Ernest Prang",
+    "b":"Severus Black",
+    "c":"Remus Tonks",
+    "prawidłowaOdpowiedź":"a"
+  },
+  {
+    "pytanie": "Dlaczego Tom Riddle zmienił imię na Lord Voldemort?",
+    "a":"Wstydził się tego, że jego ojciec był mugolem",
+    "b":"Potrzebował nowej tożsamości",
+    "c":"Łatwiej było je zapamiętać",
+    "prawidłowaOdpowiedź":"a"
+  },
+  {
+    "pytanie": "Jakiego zaklęcia użyła Hermiona, by otworzyć zamknięte na klucz drzwi, gdy razem z Harrym i Ronem uciekała przed Filchem na korytarzu na trzecim piętrze?",
+    "a":"Obscuro",
+    "b":"Wingardium Leviosa",
+    "c":"Alohomora",
+    "prawidłowaOdpowiedź":"c"
+  },
+  {
+    "pytanie": "Ile razy Hagrid stuka w mur parasolką, by wejść na ulicę Pokątną?",
+    "a":"Trzy",
+    "b":"Pięć",
+    "c":"Siedem",
+    "prawidłowaOdpowiedź":"b"
+  },
+  {
+    "pytanie": "Kto jest opiekunem Slytherinu?",
+    "a":"Pomona Sprout",
+    "b":"Severus Snape",
+    "c":"Filius Flitwick",
+    "prawidłowaOdpowiedź":"b"
+  },
+  {
+    "pytanie": "Jak miał na imię kot Hermiony?",
+    "a":"Parszywek",
+    "b":"Krzywołap",
+    "c":"Łapa",
+    "prawidłowaOdpowiedź":"b"
+  },
+  {
+    "pytanie": "Ile palców u nóg maja trolle?",
+    "a":"Jeden",
+    "b":"Dwa",
+    "c":"Trzy",
+    "prawidłowaOdpowiedź":"b"
+  },
+  {
+    "pytanie": "Kto rzucił nożem, który ugodził Zgredka w klatkę piersiową?",
+    "a":"Lucjusz Malfoy",
+    "b":"Narcyza Malfoy",
+    "c":"Belatrix Lestrange",
+    "prawidłowaOdpowiedź":"c"
+  },
+  {
+    "pytanie": "Który horkruks został zniszczony przed Harrego jako pierwszy?",
+    "a":"Dziennik Toma Riddle'a",
+    "b":"Medalion",
+    "c":"Diadem",
+    "prawidłowaOdpowiedź":"a"
+  },
+  {
+    "pytanie": "Który śmierciożerca ścigał Harry'ego i jego przyjaciół podczas ich hałaśliwej ucieczki z Ministerstwa Magii?",
+    "a":"Dolores Umbridge",
+    "b":"Fenrir Greyback",
+    "c":"Yaxley",
+    "prawidłowaOdpowiedź":"c"
+  },
+  {
+    "pytanie": "Ile punktów wart był Złoty Znicz, kiedy szukający go złapał?",
+    "a":"50",
+    "b":"100",
+    "c":"150",
+    "prawidłowaOdpowiedź":"c"
+  },
+  {
+    "pytanie": "Który z braci Weasleyów był pierwszym właścicielem Parszywka?",
+    "a":"Bill",
+    "b":"Percy",
+    "c":"Charlie",
+    "prawidłowaOdpowiedź":"b"
+  },
+  {
+    "pytanie": "Która z tych rzeczy NIE zalicza się do Insygniów Śmierci?",
+    "a":"Zwierciadło Ain Eingrap",
+    "b":"Czarna Różdżka",
+    "c":"Kamień Wskrzeszenia",
+    "prawidłowaOdpowiedź":"a"
+  },
+  {
+    "pytanie": "Jak długo Parszywek Przebywał w rodziną Rona, zanim ujawnił się jako animag?",
+    "a":"11 lat",
+    "b":"12 lat",
+    "c":"13 lat",
+    "prawidłowaOdpowiedź":"b"
+  },
+  {
+    "pytanie": "Jakie imię przyjmował Syriusz, gdy zamieniał się w psa?",
+    "a":"Łapa",
+    "b":"Ponurak",
+    "c":"Parszywiec",
+    "prawidłowaOdpowiedź":"a"
+  },
+  {
+    "pytanie": "Który uczeń, z wyjątkiem Harry'ego, widzi testrale?",
+    "a":"Dean Thomas",
+    "b":"Luna Lovegood",
+    "c":"Cho Chang",
+    "prawidłowaOdpowiedź":"b"
+  },
+  {
+    "pytanie": "Jakie imię nosił smok Hagrida?",
+    "a":"Norbert",
+    "b":"Hubert",
+    "c":"Igor",
+    "prawidłowaOdpowiedź":"a"
+  },
+  {
+    "pytanie": "Kto wpuścił trolla do Hogwartu podczas uczty w Noc Duchów?",
+    "a":"Profesor Slughorn",
+    "b":"Szalonooki Moody",
+    "c":"Profesor Quirrell",
+    "prawidłowaOdpowiedź":"c"
+  },
+  {
+    "pytanie": "Na której części ciała śmierciożercy mieli wypalony Mroczny Znak?",
+    "a":"Na karku",
+    "b":"Na piersi",
+    "c":"Na przedramieniu",
+    "prawidłowaOdpowiedź":"c"
+  },
+  {
+    "pytanie": "Ile lat wstecz przeniósł się w czasie Harry przy użyciu dziennika Toma Riddle'a?",
+    "a":"25",
+    "b":"50",
+    "c":"75",
+    "prawidłowaOdpowiedź":"b"
+  },
+  {
+    "pytanie": "Głowa jakiego stworzenia zdobi uchwyt laski Lucjusza Malfoya?",
+    "a":"Węża",
+    "b":"Lwa",
+    "c":"Orła",
+    "prawidłowaOdpowiedź":"a"
+  },
+  {
+    "pytanie": "Co, wedlug profesora Slughorna, ma na celu stworzenie horkruksa?",
+    "a":"Niesmiertelność",
+    "b":"Moc",
+    "c":"Zwyciestwo",
+    "prawidłowaOdpowiedź":"a"
+  }
+]
+
